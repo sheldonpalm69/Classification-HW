@@ -78,7 +78,7 @@ Of the 2 models, the Easy Ensemble classifier had the best geometric mean score 
 The top three features are total_rec_prncp (8.3%), total_pymnt_inv (6.9%) and last_pymnt_amnt (6.1%).
 
 
-YOUR ANSWER HERE.
+Data Set
 [lending_data](https://github.com/sheldonpalm69/Classification-HW/blob/main/lending_data.csv)
 [loan_stats](https://github.com/sheldonpalm69/Classification-HW/blob/main/LoanStats_2019Q1.csv)
 
